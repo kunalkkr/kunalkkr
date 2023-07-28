@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kunalkkr
 - 👀 I’m interested in Open Source Project
-- 🌱 I’m currently learning Java SpringBoot and Microservices
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kunalkakkar010@gmail.com
 
